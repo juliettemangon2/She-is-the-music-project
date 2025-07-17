@@ -1,0 +1,62 @@
+[
+  {
+    "countries": ["USA"],
+    "duration_years": 95,
+    "rule": "95 years from publication for sound recordings published after 1972 (Music Modernization Act)",
+    "source": "https://www.copyright.gov/title17/92chap3.html"
+  },
+  {
+    "countries": ["Mexico"],
+    "duration_years": 100,
+    "rule": "100 years from publication (Federal Copyright Law, Article 29)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["UK"],
+    "duration_years": 70,
+    "rule": "70 years from publication for sound recordings",
+    "source": "https://www.gov.uk/guidance/copyright"
+  },
+  {
+    "countries": ["Germany", "France"],
+    "duration_years": 70,
+    "rule": "70 years from publication (EU Directive 2011/77/EU)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["Canada"],
+    "duration_years": 70,
+    "rule": "70 years from publication as of 2022 (C-19 amendment)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["Japan"],
+    "duration_years": 70,
+    "rule": "70 years from publication (Copyright Law of Japan, Article 102)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["Australia"],
+    "duration_years": 70,
+    "rule": "70 years from publication for sound recordings (Copyright Amendment 2006)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["Brazil"],
+    "duration_years": 70,
+    "rule": "70 years from publication (Brazilian Copyright Law, Article 96)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["South Korea"],
+    "duration_years": 70,
+    "rule": "70 years from publication (Copyright Act, Article 42)",
+    "source": "https://wipolex.wipo.int"
+  },
+  {
+    "countries": ["default"],
+    "duration_years": 70,
+    "rule": "Default: 70 years from publication (based on Berne Convention standard)",
+    "source": "https://wipolex.wipo.int"
+  }
+]
