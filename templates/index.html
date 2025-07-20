@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Metadata Explorer</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=General+Sans:wght@400;500;600&display=swap');
+
+        :root {
+            --background: #e3e9f6;
+            --text: #130081;
+            --muted: #ef5f5f;
+            --accent: #767E8A;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'General Sans', sans-serif;
+            background: var(--background);
+            color: var(--text);
+            max-width: 700px;
+            margin: 60px auto;
+            padding: 0 20px;
+            line-height: 1.8;
+            font-size: 1.05rem;
+        }
+
+        h1 {
+            font-weight: 600;
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+
+        input {
+            width: 100%;
+            font-size: 1rem;
+            padding: 12px;
+            margin-bottom: 1.5rem;
+            border: none;
+            border-bottom: 1px solid var(--muted);
+            background: transparent;
+            color: var(--text);
+            outline: none;
+        }
+
+        input:focus {
+            border-color: var(--accent);
+        }
+
+        button {
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            padding: 12px 20px;
+            font-size: 1rem;
+            cursor: pointer;
+            font-weight: 500;
+            transition: opacity 0.3s ease;
+        }
+
+        button:hover {
+            opacity: 0.8;
+        }
+
+        .section {
+            margin-top: 3rem;
+        }
+
+        h3 {
+            font-weight: 500;
+            font-size: 1.4rem;
+            margin-bottom: 1rem;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease;
+        }
+
+        a:hover {
+            border-color: var(--accent);
+        }
+
+        ul {
+            padding-left: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Song Metadata Explorer</h1>
+
+    <form id="song-form">
+        <label for="artist">Artist Name</label>
+        <input type="text" id="artist" required>
+
+        <label for="title">Song Title</label>
+        <input type="text" id="title" required>
+
+        <button type="submit">Fetch Data</button>
+    </form>
+
+    <div id="results"></div>
+
+    <script>
+        document.getElementById('song-form').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const artist = document.getElementById('artist').value;
+            const title = document.getElementById('title').value;
+
+            try {
+                const response = await fetch(`/api/songdata?artist=${encodeURIComponent(artist)}&title=${encodeURIComponent(title)}`);
+                if (!response.ok) throw new Error('Error fetching data.');
+                const data = await response.json();
+                renderResults(data);
+            } catch (err) {
+                document.getElementById('results').innerHTML = '<p>Error fetching data.</p>';
+            }
+        });
+
+        function renderResults(data) {
+            let html = '';
+            html += renderSection('General Info', `
+                <p><strong>Artist:</strong> ${data.artist}</p>
+                <p><strong>Title:</strong> ${data.title}</p>
+                <p><strong>Release Year:</strong> ${data.release_year || 'Unknown'}</p>
+                <p><strong>Label:</strong> ${data.label || 'Unknown'}</p>
+            `);
+
+            html += renderSection('Rightsholders', renderContributors(data.rightsholders));
+            html += renderSection('Publishing Info', renderPublishing(data.publishing));
+            html += renderSection('Derivatives', renderDerivatives(data.derivatives));
+            html += renderSection('Discogs Master Data', renderDiscogsMaster(data.discogs_master));
+            html += renderSection('Copyright Flags', renderFlags(data?.copyright_flags));
+
+            document.getElementById('results').innerHTML = html;
+        }
+
+        function renderSection(title, content) {
+            return `<div class="section"><h3>${title}</h3>${content}</div>`;
+        }
+
+        function renderContributors(rightsholders) {
+            if (!rightsholders) return '<p>None found.</p>';
+            return ['writers', 'producers', 'engineers'].map(role => {
+                const items = rightsholders[role];
+                if (!items?.length) return `<p><strong>${capitalize(role)}:</strong> None</p>`;
+                const list = items.map(c => `<li>${c.name} (${c.role}) [${c.source}]</li>`).join('');
+                return `<p><strong>${capitalize(role)}:</strong></p><ul>${list}</ul>`;
+            }).join('');
+        }
+
+        function renderPublishing(publishing) {
+            if (!publishing) return '<p>No publishing info found.</p>';
+            return `
+                <p><strong>Publishers:</strong> ${publishing.publishers?.join(', ') || 'None'}</p>
+                <p><strong>Copyrights:</strong> ${publishing.copyrights?.join(', ') || 'None'}</p>
+                <p><strong>Phonographic Rights:</strong> ${publishing.phonographic_rights?.join(', ') || 'None'}</p>
+                <p><strong>Notes:</strong> ${publishing.notes || 'None'}</p>
+            `;
+        }
+
+        function renderDerivatives(derivatives) {
+            if (!derivatives) return '<p>None found.</p>';
+            return Object.entries(derivatives).map(([source, items]) => {
+                if (!items.length) return `<h4>${source}</h4><p>None.</p>`;
+                const list = items.map(d => `<li>${d.title} by ${d.artist || 'Unknown Artist'} — <a href="${d.uri}" target="_blank">View</a></li>`).join('');
+                return `<h4>${source}</h4><ul>${list}</ul>`;
+            }).join('');
+        }
+
+        function renderDiscogsMaster(master) {
+            if (!master) return '<p>No Discogs master data found.</p>';
+            const versions = master.versions?.map(v => `<li>${v.title} by ${v.artist || 'Unknown Artist'} — <a href="${v.uri}" target="_blank">View Version</a></li>`).join('');
+            return `
+                <p><strong>Master Title:</strong> ${master.master_title || 'Unknown'}</p>
+                <p><strong>Master URI:</strong> <a href="${master.master_uri}" target="_blank">View Master</a></p>
+                <p><strong>Versions:</strong></p><ul>${versions}</ul>
+            `;
+        }
+
+        function renderFlags(flags) {
+            return flags?.flags.map(flag => `<p>${flag}</p>`).join('') || '<p>None found.</p>';
+        }
+
+        function capitalize(word) {
+            return word.charAt(0).toUpperCase() + word.slice(1);
+        }
+    </script>
+</body>
+</html>

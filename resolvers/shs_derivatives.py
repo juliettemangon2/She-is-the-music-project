@@ -1,7 +1,9 @@
+# resolvers/shs_derivatives.py
+
 import os
 import requests
-from typing import List, Dict, Any
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
 
@@ -15,65 +17,69 @@ if SHS_API_KEY:
     HEADERS["X-API-Key"] = SHS_API_KEY
 
 
-def search_work(title: str, artist: str) -> Any:
-    params = {
-        "title": title,
-        "credits": artist,
-        "format": "json"
-    }
+def search_work(title: str, artist: str):
+    params = {"title": title, "format": "json"}
     resp = requests.get(f"{SHS_BASE_URL}/search/work", headers=HEADERS, params=params, timeout=10, verify=False)
     if not resp.ok:
-        print(f"Failed to search work: {resp.status_code} {resp.text}")
         return None
-
     data = resp.json()
-    works = data.get("results", [])
-    return works[0] if works else None
+    results = data.get("resultPage", [])
+
+    for work in results:
+        work_uri = work.get("uri")
+        if work_uri:
+            details = fetch_work_details(work_uri)
+            original = details.get("original", {})
+            performer = original.get("performer", {}).get("name", "").lower()
+            if artist.lower() in performer:
+                return details
+    return None
 
 
-def fetch_work_details(work_uri: str) -> Any:
-    url = f"{SHS_BASE_URL}{work_uri}"
-    resp = requests.get(url, headers=HEADERS, timeout=10, verify=False)
-    if not resp.ok:
-        print(f"Failed to fetch work details: {resp.status_code} {resp.text}")
-        return None
-
-    return resp.json()
+def fetch_work_details(work_uri: str):
+    resp = requests.get(work_uri, headers=HEADERS, timeout=10, verify=False)
+    return resp.json() if resp.ok else {}
 
 
-def get_shs_work_full_data(artist: str, title: str) -> Dict[str, Any]:
-    work = search_work(title, artist)
-    if not work:
-        return {}
-
-    work_details = fetch_work_details(work["uri"])
-    if not work_details:
-        return {}
-
-    return {
-        "title": work_details.get("title"),
-        "entityType": work_details.get("entityType"),
-        "language": work_details.get("language"),
-        "credits": work_details.get("credits"),
-        "originalCredits": work_details.get("originalCredits"),
-        "original": work_details.get("original"),
-        "basedOn": work_details.get("basedOn"),
-        "derivedWorks": work_details.get("derivedWorks"),
-        "versions": work_details.get("versions")
-    }
+def search_performances(title: str, artist: str):
+    params = {"title": title, "performer": artist, "format": "json"}
+    resp = requests.get(f"{SHS_BASE_URL}/search/performance", headers=HEADERS, params=params, timeout=10, verify=False)
+    if resp.ok:
+        data = resp.json()
+        return data.get("resultPage", [])
+    return []
 
 
-if __name__ == "__main__":
-    import sys
-    import json
+def get_all_derivatives_from_shs(artist: str, title: str):
+    derivatives = []
+    seen_uris = set()
 
-    if len(sys.argv) != 3:
-        print("Usage: python shs_derivatives.py \"Artist Name\" \"Song Title\"")
-        sys.exit(1)
+    work_details = search_work(title, artist)
+    if work_details:
+        for category in ['versions', 'derivedWorks']:
+            for item in work_details.get(category, []):
+                uri = item.get('uri')
+                artist_name = item.get("performer", {}).get("name", "Unknown")
+                if uri and uri not in seen_uris and artist_name != "Unknown":
+                    seen_uris.add(uri)
+                    derivatives.append({
+                        "title": item.get("title"),
+                        "artist": artist_name,
+                        "relation_type": category,
+                        "uri": uri
+                    })
 
-    artist = sys.argv[1]
-    title = sys.argv[2]
+    performances = search_performances(title, artist)
+    for perf in performances:
+        uri = perf.get("uri")
+        artist_name = perf.get("performer", {}).get("name", "Unknown")
+        if uri and uri not in seen_uris and artist_name != "Unknown":
+            seen_uris.add(uri)
+            derivatives.append({
+                "title": perf.get("title"),
+                "artist": artist_name,
+                "relation_type": "performance",
+                "uri": uri
+            })
 
-    print(f"Fetching full work data for: {title} by {artist}\n")
-    work_data = get_shs_work_full_data(artist, title)
-    print(json.dumps(work_data, indent=2))
+    return derivatives
