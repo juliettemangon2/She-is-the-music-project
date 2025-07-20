@@ -29,7 +29,12 @@ def main(artist: str, title: str):
 
     print("Fetching Discogs master & versions...")
     discogs_master = get_discogs_master_and_versions(artist, title)
-    print(f"Discogs master data: {discogs_master['master_title']} with {len(discogs_master['versions'])} versions")
+    if discogs_master:
+        master_title = discogs_master.get('master_title', 'Unknown')
+        versions = discogs_master.get('versions', [])
+        print(f"Discogs master data: {master_title} with {len(versions)} versions")
+    else:
+        print("No Discogs master data found")
 
     print("Generating copyright flags...")
     flags = generate_copyright_flags(

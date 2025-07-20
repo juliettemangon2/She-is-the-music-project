@@ -7,7 +7,9 @@ from data_sources.spotify_utils import get_spotify_metadata
 
 def get_rightsholders(artist: str, title: str) -> Dict[str, Any]:
     spotify_meta = get_spotify_metadata(artist, title)
-    label = spotify_meta.get('album', {}).get('label') if spotify_meta else None
+    # get_spotify_metadata returns label at the top level, not nested under
+    # an "album" key. Pull it directly if present.
+    label = spotify_meta.get('label') if spotify_meta else None
 
     discogs_credits = get_discogs_credits(artist, title)
     discogs_label = get_discogs_label(artist, title)
