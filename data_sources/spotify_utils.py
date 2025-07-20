@@ -13,8 +13,8 @@ if not SPOTIFY_CLIENT_ID or not SPOTIFY_CLIENT_SECRET:
 TOKEN_URL = "https://accounts.spotify.com/api/token"
 SEARCH_URL = "https://api.spotify.com/v1/search"
 
+
 def _get_spotify_token() -> str:
-    """Get Spotify access token via Client Credentials flow."""
     response = requests.post(
         TOKEN_URL,
         data={"grant_type": "client_credentials"},
@@ -24,13 +24,8 @@ def _get_spotify_token() -> str:
     response.raise_for_status()
     return response.json()["access_token"]
 
-def get_spotify_metadata(artist: str, title: str) -> dict:
-    """
-    Fetch Spotify metadata for a given artist and title.
 
-    Returns:
-        Dictionary containing Spotify metadata, including album label and release year.
-    """
+def get_spotify_metadata(artist: str, title: str) -> dict:
     token = _get_spotify_token()
     headers = {"Authorization": f"Bearer {token}"}
 
@@ -52,6 +47,7 @@ def get_spotify_metadata(artist: str, title: str) -> dict:
 
     track = items[0]
     album_info = track.get("album", {})
+    
     release_date = album_info.get("release_date", "")
     release_year = None
     if release_date:
@@ -60,8 +56,19 @@ def get_spotify_metadata(artist: str, title: str) -> dict:
         except ValueError:
             release_year = None
 
-    track["release_year"] = release_year
-    return track
+    label = album_info.get("label")
+    copyrights = album_info.get("copyrights", [])
+
+    return {
+        "spotify_id": track.get("id"),
+        "name": track.get("name"),
+        "artist": artist,
+        "album_name": album_info.get("name"),
+        "label": label,
+        "release_year": release_year,
+        "copyrights": copyrights
+    }
+
 
 if __name__ == "__main__":
     import sys, json

@@ -6,27 +6,14 @@ from data_sources.spotify_utils import get_spotify_metadata
 
 
 def get_rightsholders(artist: str, title: str) -> Dict[str, Any]:
-    """
-    Aggregates rightsholder information from Discogs, MusicBrainz, and Spotify.
-
-    Returns:
-        Dictionary with:
-            - writers: List of dicts
-            - producers: List of dicts
-            - engineers: List of dicts
-            - label: str or None
-    """
-    # Spotify Metadata for label
     spotify_meta = get_spotify_metadata(artist, title)
     label = spotify_meta.get('album', {}).get('label') if spotify_meta else None
 
-    # Discogs Credits and Label
     discogs_credits = get_discogs_credits(artist, title)
     discogs_label = get_discogs_label(artist, title)
     if not label:
         label = discogs_label
 
-    # MusicBrainz Contributors (writers)
     mb_contributors = get_contributors(title, artist)
 
     writers = []
@@ -34,38 +21,43 @@ def get_rightsholders(artist: str, title: str) -> Dict[str, Any]:
     engineers = []
     seen = set()
 
-    # Process Discogs Credits
+    def add_contributor(name: str, role: str, source: str, target_list: list):
+        key = (name.lower(), role.lower())
+        if key not in seen:
+            seen.add(key)
+            target_list.append({
+                "name": name,
+                "role": role,
+                "source": source
+            })
+
+
     for credit in discogs_credits:
+        role = (credit.role or '').lower()
         name = credit.name
-        role = credit.role.lower()
-        key = (name.lower(), role)
-        if key in seen:
-            continue
-        seen.add(key)
+        source = credit.source
 
-        entry = {"name": name, "role": credit.role, "source": credit.source}
+        # Normalize role by removing bracketed info for clean comparison
+        base_role = role.split('[')[0].strip()
 
-        if 'producer' in role:
-            producers.append(entry)
-        elif 'engineer' in role:
-            engineers.append(entry)
-        elif 'writer' in role or 'songwriter' in role or 'composer' in role:
-            writers.append(entry)
+        if 'producer' in base_role:
+            print(f"Adding producer: {name} ({credit.role})")
+            add_contributor(name, credit.role, source, producers)
+        elif 'engineer' in base_role:
+            print(f"Adding engineer: {name} ({credit.role})")
+            add_contributor(name, credit.role, source, engineers)
+        elif any(term in base_role for term in ['writer', 'songwriter', 'composer', 'lyricist', 'lyrics by']):
+            print(f"Adding writer: {name} ({credit.role})")
+            add_contributor(name, credit.role, source, writers)
 
-    # Process MusicBrainz contributors as writers
     for mb_credit in mb_contributors:
-        name = mb_credit['name']
         role = mb_credit['role'].lower()
-        key = (name.lower(), role)
-        if key in seen:
-            continue
-        seen.add(key)
-
-        writers.append({
-            "name": name,
-            "role": mb_credit['role'],
-            "source": mb_credit.get('source', 'musicbrainz')
-        })
+        if role in ['composer', 'lyricist', 'writer']:
+            add_contributor(mb_credit['name'], mb_credit['role'], mb_credit['source'], writers)
+        elif role == 'producer':
+            add_contributor(mb_credit['name'], mb_credit['role'], mb_credit['source'], producers)
+        elif role == 'engineer':
+            add_contributor(mb_credit['name'], mb_credit['role'], mb_credit['source'], engineers)
 
     return {
         "writers": writers,
