@@ -189,7 +189,7 @@
 
         function renderDiscogsMaster(master) {
             if (!master) return '<p>No Discogs master data found.</p>';
-            const versions = master.versions?.map(v => `<li>${v.title} by ${v.artist || 'Unknown Artist'} — <a href="${v.uri}" target="_blank">View Version</a></li>`).join('');
+            const versions = master.versions?.map(v => `<li>${v.title} by ${v.artist || 'Unknown Artist'} — <a href="${v.uri}" target="_blank">View Version</a></li>`).join('') || '';
             return `
                 <p><strong>Master Title:</strong> ${master.master_title || 'Unknown'}</p>
                 <p><strong>Master URI:</strong> <a href="${master.master_uri}" target="_blank">View Master</a></p>
@@ -198,7 +198,8 @@
         }
 
         function renderFlags(flags) {
-            return flags?.flags.map(flag => `<p>${flag}</p>`).join('') || '<p>None found.</p>';
+            const list = flags?.flags?.map(flag => `<p>${flag}</p>`).join('') || '';
+            return list || '<p>None found.</p>';
         }
 
         function capitalize(word) {
