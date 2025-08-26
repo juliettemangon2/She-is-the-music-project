@@ -1,0 +1,2490 @@
+[
+  {
+    "artist": "boygenius ",
+    "title": "Me & My Dog",
+    "album": "boygenius",
+    "release_year": 2018,
+    "label": "Matador",
+    "spotify_popularity": 59,
+    "artist_popularity": 66,
+    "genres": [
+      "Folk"
+    ],
+    "contributors": [
+      {
+        "name": "Julien Baker",
+        "roles": [
+          "Band [boygenius is]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lucy Dacus",
+        "roles": [
+          "Band [boygenius is]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Phoebe Bridgers",
+        "roles": [
+          "Band [boygenius is]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Anna Butterss",
+        "roles": [
+          "Bass [bass on this recording by]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Beth Goodfellow",
+        "roles": [
+          "Drums [drums on this recording by]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Joseph Lorge",
+        "roles": [
+          "Engineer",
+          "Mixed by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Carl Rowatti",
+        "roles": [
+          "Lacquer cut by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Heba Kadry",
+        "roles": [
+          "Mastered by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Collin Pastore",
+        "roles": [
+          "Mixed by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lera Pentelute",
+        "roles": [
+          "Photography by [photo by]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "boygenius",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Christian Lee Hutson",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [
+      "Kobalt",
+      "I'm So Sorry Publishing",
+      "Whatever Mom Music",
+      "Hipgnosis Songs Group"
+    ],
+    "derivatives": {
+      "secondhandsongs": [
+        {
+          "title": "Me & My Dog",
+          "artist": "Boygenius",
+          "relation_type": "performance",
+          "uri": "https://api.secondhandsongs.com/performance/1716759"
+        }
+      ],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Julien Baker",
+            "role": "Band [Boygenius Is]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Lucy Dacus",
+            "role": "Band [Boygenius Is]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Band [Boygenius Is]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Anna Butterss",
+            "role": "Bass [Bass On This Recording By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Beth Goodfellow",
+            "role": "Drums [Drums On This Recording By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Joseph Lorge",
+            "role": "Engineer [Engineered By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Carl Rowatti",
+            "role": "Lacquer Cut By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Heba Kadry",
+            "role": "Mastered By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Collin Pastore",
+            "role": "Mixed By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Joseph Lorge",
+            "role": "Mixed By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Lera Pentelute",
+            "role": "Photography By [Photo By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "boygenius",
+            "role": "Written-By [All Songs Written By], Performer [All Songs Performed By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Written-By, Performer",
+            "source": "discogs",
+            "scope": "album"
+          }
+        ],
+        "album_genres": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "album_styles": [
+          "Folk"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "USA & Canada",
+        "release_year": 2018,
+        "labels": [
+          {
+            "name": "Matador",
+            "catno": "OLE-1408-1"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Sound City Studios",
+            "role": "Recorded At"
+          },
+          {
+            "name": "Timeless Mastering",
+            "role": "Mastered At"
+          },
+          {
+            "name": "Matador Records (2)",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Matador Records (2)",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Trutone Mastering Labs",
+            "role": "Lacquer Cut At"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "7 44861 14081 8"
+          },
+          {
+            "type": "Barcode",
+            "value": "744861140818"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "OLE-1408-1 A Re-1 Trutone Mastering NY Carl 10-18"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "OLE-1408-1 B Re-1 Trutone Mastering NY Carl 9-18"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [
+          "Matador Records (2)",
+          "Matador Records (2)"
+        ],
+        "phonographic_rights": [
+          "Matador Records (2)"
+        ],
+        "notes": "Includes a download code.\n\n[On back cover]:\nRecorded at Sound City, Van Nuys, CA\n\u2117 + \u00a9 2018 matador records\n134 grand st new york NY 10013\n\nTrack durations do not appear on the release."
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Conor Oberst",
+    "title": "Moab",
+    "album": "Conor Oberst",
+    "release_year": 2008,
+    "label": "Merge Records",
+    "spotify_popularity": 29,
+    "artist_popularity": 48,
+    "genres": [
+      "Indie Rock"
+    ],
+    "contributors": [
+      {
+        "name": "Macey Taylor",
+        "roles": [
+          "Bass"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Jason Boesel",
+        "roles": [
+          "Drums, voice, percussion"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Nik Freitas",
+        "roles": [
+          "Guitar"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Nate Walcott",
+        "roles": [
+          "Electric piano"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Conor Oberst",
+        "roles": [
+          "Writer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    ],
+    "publishers": [
+      "Bedrooms; Bedrooms And Spiders",
+      "Sony/ATV Sounds LLC",
+      "BB Lindstrom"
+    ],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Macey Taylor",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Jason Boesel",
+            "role": "Drums, Voice, Percussion",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Nik Freitas",
+            "role": "Electric Guitar, Voice",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Nate Walcott",
+            "role": "Electric Piano",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Rock",
+          "Folk, World, & Country"
+        ],
+        "album_styles": [
+          "Indie Rock"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "US",
+        "release_year": 2008,
+        "labels": [
+          {
+            "name": "Merge Records",
+            "catno": "MRG340"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Merge Records",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Merge Records",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Bedrooms; Bedrooms And Spiders",
+            "role": "Published By"
+          },
+          {
+            "name": "Sony/ATV Sounds LLC",
+            "role": "Published By"
+          },
+          {
+            "name": "BB Lindstrom",
+            "role": "Published By"
+          },
+          {
+            "name": "Valle M\u00edstico",
+            "role": "Recorded At"
+          },
+          {
+            "name": "R. Twerk & Co.",
+            "role": "Designed At"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "6 73855 03401 0"
+          },
+          {
+            "type": "Barcode",
+            "value": "673855034010"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "MRG340 ARE"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "MRG340 BREI"
+          }
+        ],
+        "publishers": [
+          "Bedrooms; Bedrooms And Spiders",
+          "Sony/ATV Sounds LLC",
+          "BB Lindstrom"
+        ],
+        "copyrights": [
+          "Merge Records",
+          "Merge Records"
+        ],
+        "phonographic_rights": [
+          "Merge Records"
+        ],
+        "notes": "Recorded January/February 2008 in Tepotzl\u00e1n, Morelos, Mexico at Valle M\u00edstico.\r\n\r\nReleased in a gatefold cover with printed inner-sleeve. Two stickers on the outer plastic wrapper: A big silver one by Merge Records about the MP3 download and claiming \"Hi-Quality 180 Gram Vinyl For Maximum Sound Quality\".\r\nPlus a smaller clear sticker \"Conor Oberst - A new solo album from Conor Oberst Of Bright Eyes\".\r\n\r\nThis LP release came with a code to download an MP3 version of the album from Merge Record's website.\r\n\r\nAll track lengths for this LP are taken from the track lengths of those downloaded MP3s."
+      }
+    },
+    "flags": []
+  },
+  {
+    "artist": "Phoebe Bridgers",
+    "title": "So Much Wine",
+    "album": "So Much Wine",
+    "release_year": 2022,
+    "label": "Dead Oceans",
+    "spotify_popularity": 56,
+    "artist_popularity": 79,
+    "genres": [
+      "Holiday",
+      "Folk Rock",
+      "Indie Rock"
+    ],
+    "contributors": [
+      {
+        "name": "Phoebe Bridgers",
+        "roles": [
+          "Producer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Paul Mescal",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Sebastian Steinberg",
+        "roles": [
+          "Double bass [upright bass]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Marshall Vore",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Harrison Whitford",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Tony Berg",
+        "roles": [
+          "Producer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Ethan Gruska",
+        "roles": [
+          "Producer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Andrew Bird",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Brett Sparks",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Rennie Sparks",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [
+      "Handsome Family Music",
+      "Muffet Music Co"
+    ],
+    "derivatives": {
+      "secondhandsongs": [
+        {
+          "title": "So Much Wine",
+          "artist": "Phoebe Bridgers",
+          "relation_type": "performance",
+          "uri": "https://api.secondhandsongs.com/performance/1398660"
+        }
+      ],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Acoustic Bass, Vocals, Producer",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Paul Mescal",
+            "role": "Backing Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "role": "Double Bass [Upright Bass]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Marshall Vore",
+            "role": "Drums, Percussion, Backing Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Harrison Whitford",
+            "role": "Guitar [High Strung Guitar], Backing Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Producer",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Pump Organ, Backing Vocals, Producer",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Andrew Bird",
+            "role": "Whistle, Fiddle, Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Brett Sparks",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Rennie Sparks",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "album"
+          }
+        ],
+        "album_genres": [
+          "Rock",
+          "Folk, World, & Country"
+        ],
+        "album_styles": [
+          "Indie Rock",
+          "Folk Rock",
+          "Holiday"
+        ],
+        "album_formats": [
+          "File"
+        ],
+        "release_country": null,
+        "release_year": 2022,
+        "labels": [
+          {
+            "name": "Not On Label (Phoebe Bridgers Self-released)",
+            "catno": "none"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Handsome Family Music",
+            "role": "Published By"
+          },
+          {
+            "name": "Muffet Music Co",
+            "role": "Published By"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Rights Society",
+            "value": "BMI"
+          },
+          {
+            "type": "Rights Society",
+            "value": "ASCAP"
+          }
+        ],
+        "publishers": [
+          "Handsome Family Music",
+          "Muffet Music Co"
+        ],
+        "copyrights": [],
+        "phonographic_rights": [],
+        "notes": ""
+      }
+    },
+    "flags": []
+  },
+  {
+    "artist": "Lucy Dacus",
+    "title": "First Time",
+    "album": "Home Video",
+    "release_year": 2021,
+    "label": "Matador",
+    "spotify_popularity": 46,
+    "artist_popularity": 69,
+    "genres": [
+      "Indie Pop",
+      "Indie Rock"
+    ],
+    "contributors": [
+      {
+        "name": "Jacob Blizard",
+        "roles": [
+          "Guitar"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Jake Finch",
+        "roles": [
+          "Drums, synthesizer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lucy Dacus",
+        "roles": [
+          "Vocalist",
+          "Writer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Collin Pastore",
+        "roles": [
+          "Hihat [hi hat delay]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Camille Faulkner",
+        "roles": [
+          "Violin"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Jacob Blizard",
+            "role": "Bass Guitar, Synthesizer [Bass Synthesizer], Pedalboard [Dream Sequence Pedal], Electric Guitar",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Jake Finch",
+            "role": "Drums, Synthesizer",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Lucy Dacus",
+            "role": "Electric Guitar, Vocals",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Collin Pastore",
+            "role": "Hihat [Hi Hat Delay]",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Camille Faulkner",
+            "role": "Violin",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Rock",
+          "Pop"
+        ],
+        "album_styles": [
+          "Indie Rock",
+          "Indie Pop"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "US",
+        "release_year": 2021,
+        "labels": [
+          {
+            "name": "Matador",
+            "catno": "OLE1736LP"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Matador Records (2)",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Matador Records (2)",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Trace Horse Studio",
+            "role": "Recorded At"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "191401173612"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "OLE-1736-A 2u"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "OLE-1736-B 2u"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [
+          "Matador Records (2)",
+          "Matador Records (2)"
+        ],
+        "phonographic_rights": [
+          "Matador Records (2)"
+        ],
+        "notes": "Packaged in a gatefold sleeve.\nIncludes a printed inner sleeve.\n\n\u2117&\u00a9 2021 Matador Records 134 Grand St, NYC 10013\n\nRecorded at Trace Horse Studios in Nashville, TN"
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Better Oblivion Community Center",
+    "title": "My City",
+    "album": "Better Oblivion Community Center",
+    "release_year": 2019,
+    "label": "Dead Oceans",
+    "spotify_popularity": 42,
+    "artist_popularity": 44,
+    "genres": [
+      "Indie Pop",
+      "Alternative Rock",
+      "Indie Rock",
+      "Folk Rock"
+    ],
+    "contributors": [
+      {
+        "name": "Wylie Gelber",
+        "roles": [
+          "Bass"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Griffin Goldsmith",
+        "roles": [
+          "Drums, percussion"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Conor Oberst",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Phoebe Bridgers",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Wylie Gelber",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Griffin Goldsmith",
+            "role": "Drums, Percussion",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Conor Oberst",
+            "role": "Vocals, Guitar",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Vocals, Guitar",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "album_styles": [
+          "Alternative Rock",
+          "Indie Pop",
+          "Indie Rock",
+          "Folk Rock"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "US",
+        "release_year": 2019,
+        "labels": [
+          {
+            "name": "Dead Oceans",
+            "catno": "DOC188"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Dead Oceans, Inc.",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Dead Oceans, Inc.",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Fivestarstudios",
+            "role": "Engineered At"
+          },
+          {
+            "name": "Gateway Mastering",
+            "role": "Mastered At"
+          },
+          {
+            "name": "Salt Mastering",
+            "role": "Lacquer Cut At"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "656605148816"
+          },
+          {
+            "type": "Barcode",
+            "value": "6 56605 14881 6"
+          },
+          {
+            "type": "Label Code",
+            "value": "LC 29265"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "DOC-188LP A"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "DOC-188LP B Salt"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [
+          "Dead Oceans, Inc.",
+          "Dead Oceans, Inc."
+        ],
+        "phonographic_rights": [
+          "Dead Oceans, Inc."
+        ],
+        "notes": "Includes printed inner sleeve with lyrics, credits and photos.\nIncludes download code card.\n\nTracks are listed sequentially on back cover and labels."
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Julien Baker",
+    "title": "Favor",
+    "album": "Little Oblivions",
+    "release_year": 2021,
+    "label": "Matador",
+    "spotify_popularity": 42,
+    "artist_popularity": 66,
+    "genres": [
+      "Indie Rock",
+      "ambient folk"
+    ],
+    "contributors": [
+      {
+        "name": "Lucy Dacus",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Phoebe Bridgers",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Julien Baker",
+        "roles": [
+          "Composer",
+          "Lyricist"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    ],
+    "publishers": [
+      "Kobalt",
+      "Julien Rose Baker"
+    ],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Lucy Dacus",
+            "role": "Backing Vocals",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Backing Vocals",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Rock"
+        ],
+        "album_styles": [
+          "Indie Rock"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "USA, Canada & Europe",
+        "release_year": 2021,
+        "labels": [
+          {
+            "name": "Matador",
+            "catno": "OLE1632LP"
+          },
+          {
+            "name": "6131 Records",
+            "catno": "OLE1632LP"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Matador Records (2)",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Matador Records (2)",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Julien Rose Baker",
+            "role": "Published By"
+          },
+          {
+            "name": "Kobalt",
+            "role": "Published By"
+          },
+          {
+            "name": "Toast (4)",
+            "role": "Mixed At"
+          },
+          {
+            "name": "Sterling Sound",
+            "role": "Mastered At"
+          },
+          {
+            "name": "Young Avenue Sound, Memphis",
+            "role": "Engineered At"
+          },
+          {
+            "name": "GZ Media",
+            "role": "Pressed By"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "1 91401 16321 7"
+          },
+          {
+            "type": "Barcode",
+            "value": "191401163217"
+          },
+          {
+            "type": "Rights Society",
+            "value": "BMI"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "218140E1/A"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "218140E2/A"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "218140E2/B"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "218140E2/A"
+          }
+        ],
+        "publishers": [
+          "Kobalt",
+          "Julien Rose Baker"
+        ],
+        "copyrights": [
+          "Matador Records (2)",
+          "Matador Records (2)"
+        ],
+        "phonographic_rights": [
+          "Matador Records (2)"
+        ],
+        "notes": "Packaged in an embossed cover.\nIncludes a lyrics book.\n\n\u00a9 & \u2117 2021 Matador Records\n\nJulien Rose Baker (BMI) / Publishing administered by Kobalt\n\nMixed [...] at Toast in London, UK\nMastered [...] at Sterling Sound in Edgewater, NJ\nEngineer [...] at Young Avenue Sound in Memphis, TN"
+      }
+    },
+    "flags": []
+  },
+  {
+    "artist": "Lorde",
+    "title": "Dominoes",
+    "album": "Solar Power",
+    "release_year": 2021,
+    "label": "Universal Music New Zealand Limited",
+    "spotify_popularity": 48,
+    "artist_popularity": 86,
+    "genres": [
+      "Indie Pop",
+      "Vocal"
+    ],
+    "contributors": [
+      {
+        "name": "Jack Antonoff",
+        "roles": [
+          "Producer",
+          "Writer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Ella Yelich-O'Connor",
+        "roles": [
+          "Producer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lorde",
+        "roles": [
+          "Writer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    ],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Jack Antonoff",
+            "role": "Producer, Songwriter",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Ella Yelich-O'Connor",
+            "role": "Producer, Songwriter, Performer",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Pop"
+        ],
+        "album_styles": [
+          "Vocal",
+          "Indie Pop"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "USA & Europe",
+        "release_year": 2021,
+        "labels": [
+          {
+            "name": "Universal Music New Zealand",
+            "catno": "3817654"
+          }
+        ],
+        "companies": [
+          {
+            "name": "JB Hi-Fi",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "Target (11)",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "FNAC",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "Media Markt",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "Saturn (16)",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "El Corte Ingl\u00e9s",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "Sunrise Records (27)",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "Discoteca Laziale S.r.l.",
+            "role": "Exclusive Retailer"
+          },
+          {
+            "name": "Sterling Sound",
+            "role": "Mastered At"
+          },
+          {
+            "name": "Sterling Sound",
+            "role": "Lacquer Cut At"
+          },
+          {
+            "name": "Optimal Media GmbH",
+            "role": "Pressed By"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "0602438176540"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "LORDELP3-A (1)-2 BL44271 01 A1 I=^ JN-H STERLING"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "LORDELP3-B (1)-2 BL44271 01 B1 JN-H STERLING"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "LORDELP3-A (1)-2 BL44271 01 A1 ^^^ JN-H STERLING"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "LORDELP3-B (1)-2 BL44271 01 B1 V^= JN-H STERLING"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [],
+        "phonographic_rights": [],
+        "notes": "EU: indies exclusive\nUS: Target exclusive\nAustralia and New Zealand: JB Hi-Fi exclusive\nFrance: FNAC exclusive\nCanada: Sunrise Records exclusive \nSpain: El Corte Ingl\u00e9s exclusive\nGermany: Media Markt/Saturn exclusive\nItaly: Discoteca Laziale\n\nRunouts are hand-etched, except STERLING which is stamped."
+      }
+    },
+    "flags": [
+      {
+        "type": "conflicting_info",
+        "message": "Contributor information differs between Discogs and MusicBrainz",
+        "details": {
+          "discogs": [
+            "Jack Antonoff",
+            "Ella Yelich-O'Connor"
+          ],
+          "musicbrainz": [
+            "Jack Antonoff",
+            "Lorde"
+          ]
+        }
+      },
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Radiohead",
+    "title": "High and Dry",
+    "album": "The Bends",
+    "release_year": 1995,
+    "label": "XL Recordings",
+    "spotify_popularity": 80,
+    "artist_popularity": 88,
+    "genres": [
+      "Experimental",
+      "alternative rock",
+      "art rock",
+      "Abstract",
+      "Alternative Rock"
+    ],
+    "contributors": [
+      {
+        "name": "Stanley Donwood",
+        "roles": [
+          "Artwork by [fine art]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "White Chocolate Farm, The",
+        "roles": [
+          "Artwork by [fine art]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Green Ink",
+        "roles": [
+          "Artwork by [pasting]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Ron McMaster",
+        "roles": [
+          "Mastered by [per runout]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Consume",
+        "roles": [
+          "Other [additional narcosis]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Radiohead",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [
+        {
+          "title": "High and Dry",
+          "artist": "quasimode",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/323033"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Eliza Lumley",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/363622"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Mike Mass\u00e9",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/289102"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Amanda Palmer",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/157213"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Act of Congress",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/277406"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Pete Kuzma and Bilal",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/50223"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jacksoul",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/94055"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Radiohead",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/21508"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Professional Murder Music",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/96731"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Good Morning Coma",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/107854"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jorge Drexler",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/107861"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Damien Leith",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/108707"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jamie Cullum",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/21509"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "Hitoshi Arai",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/394286"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "Ben Forster",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/417397"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "ABC",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/434613"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Harvard-Radcliffe Veritones",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/446624"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Joe Dolan",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/477488"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Karizma Duo",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/481196"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Alison Scott",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/488099"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Sirens [a cappella]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/505972"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Pikers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/509728"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Betty Buckley",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/551041"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Ecko",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/616851"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The New Dominions",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/649101"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Eleonora Bianchini / Enzo Pietropaoli",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/655578"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Colin & Caroline",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/666054"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Piano Tribute Players",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/690395"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Lena Hall",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/707578"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "[Tribute Sounds Studio Artists]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/721806"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "Transient featuring Mike Moore",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/721821"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Scott Bradlee's Postmodern Jukebox feat. Carrie Manolakos",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/742539"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "Jennifer Berning",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/790443"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "[CMH Studio Artists]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/837248"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Midnite String Quartet",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/840979"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Sarah Menescal",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/871136"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Rab Noakes",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/927356"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Berti Barbera & Mariano Castro",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/935008"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jeremy Jordan [US1]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/952898"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "D\u00e9j\u00e0 Vu [US1]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/968572"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Lullaby Baby Trio",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/972454"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "Arjen Dekker",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/982208"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Thom Cooper",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1051978"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Ambient Light Orchestra",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/996506"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Morgxn",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1098482"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Yoga Pop Ups",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1112878"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Twinkle Twinkle Little Rock Star",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1121494"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Marcos Olaguibet",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1465896"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "8-Bit Misfits",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1130092"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Rosie Carney",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1131813"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Aim\u00e9e Butcher",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1198471"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Acoustic Heartstrings",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1201284"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Chiptune Radio",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1207720"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Megan Davies & Jonah Baker",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1237135"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Stories feat. Rett Madison",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1250294"
+        },
+        {
+          "title": "High and Dry (Recreation)",
+          "artist": "Scott Bonneau",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1285592"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "Prairie Stellar",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1285826"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Sleeping Panda",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1307829"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Rudy Royston",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1309589"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jacob Anderskov",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1312432"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Geoff Castellucci",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1315389"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Easy Star All-Stars featuring Morgan Heritage",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1315390"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Daniel Norberg",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1335529"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Pomplamoose",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1358760"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Hangovers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1374865"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Guitar Dreamers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1453135"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Fundamentally Sound",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1431257"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Josh Cohen",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1484015"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "New Friends",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1492903"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Mark Kroos - Judson Hurd",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1514294"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Absinthe Father",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1528592"
+        },
+        {
+          "title": "High & Dry",
+          "artist": "r.i.s.s.",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1534406"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Distance [GB1]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1535773"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "McKinley & Dan Balmer",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1555205"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Roman GianArthur",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1581608"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Gentlemen of NUCO",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1581623"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Lawrence University Jazz Ensemble",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1583056"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Cat and Owl",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1583104"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jon Gomm",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1599686"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Muhlenberg Dynamics",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1630016"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Disappear Incompletely",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1651418"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Melody Diachun",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1655883"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Jude Davison",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1658881"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Large Men",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1659264"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Roma Symphony Orchestra",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1698146"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "The Pennharmonics",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1715774"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Wellesley Widows",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1759009"
+        },
+        {
+          "title": "High and Dry",
+          "artist": "Rhythms del Mundo feat. El Lele de Los Van Van & Radiohead",
+          "relation_type": "performance",
+          "uri": "https://api.secondhandsongs.com/performance/486583"
+        }
+      ],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Stanley Donwood",
+            "role": "Artwork By [Fine Art]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "White Chocolate Farm, The",
+            "role": "Artwork By [Fine Art]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Green Ink",
+            "role": "Artwork By [Pasting]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ron McMaster",
+            "role": "Mastered By [Per Runout]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Consume",
+            "role": "Other [Additional Narcosis]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Radiohead",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "album"
+          }
+        ],
+        "album_genres": [
+          "Electronic",
+          "Rock"
+        ],
+        "album_styles": [
+          "Alternative Rock",
+          "Abstract",
+          "Experimental"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "US",
+        "release_year": 2009,
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "509996 93533 14"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Capitol Mastering",
+            "role": "Mastered At"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "5 099969 353314"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "5099969353314 \u00b7 A     G1     RM     MASTERED BY CAPITOL     67993"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "5099969353314 - B     G1     RM     MASTERED BY CAPITOL     67994"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [],
+        "phonographic_rights": [],
+        "notes": "High & Dry / Planet Telex - EP1\n\nOriginally released in 1995.\n\nPresented in a lavish sleeve embossed with a silver Radiohead logo and a 10\" x 5\" wrap-around replica of the original release artwork attached to the sleeve.\n\nGold Sticker on shrink wrap reads: \nFrom The Capitol Vaults \nLimited Edition\nSpecial Packaging\nOn Vinyl For The First Time\n180 gram - 45 RPM - 12'' Vinyl\nAudiophile Quality\nCover Artwork\nSticker Included\n\nB2: Remixed for 140db.\n\nA1 & A2: Taken from the forthcoming album [m=17008]\n\nPublished by Warner Chappell Ltd.\n\u2117 \u00a9 1995 EMI Records Ltd.\nManufactured by Capitol Records, LLC.\n"
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "MUNA",
+    "title": "Anything But Me",
+    "album": "MUNA",
+    "release_year": 2022,
+    "label": "Dead Oceans",
+    "spotify_popularity": 53,
+    "artist_popularity": 58,
+    "genres": [
+      "Dance-pop",
+      "Indie Pop"
+    ],
+    "contributors": [],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [],
+        "album_genres": [
+          "Electronic",
+          "Pop"
+        ],
+        "album_styles": [
+          "Indie Pop",
+          "Dance-pop"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "UK, Europe & US",
+        "release_year": 2022,
+        "labels": [
+          {
+            "name": "Saddest Factory",
+            "catno": "SAD005"
+          },
+          {
+            "name": "Saddest Factory",
+            "catno": "SAD005LP-C1"
+          }
+        ],
+        "companies": [],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "6 5660 - 53898 - 7 5"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "SAD 005 LP-A \u2661CM\u2661"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "SAD 005 LP-B \u2661CM\u2661"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [],
+        "phonographic_rights": [],
+        "notes": "Indie Store Exclusive, Olive Green\nIncludes a download code. \n\n75 copies from Rough Trade UK came with a signed poster. An unknown number of copies from Recordstore.co.uk came with a signed poster. "
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "LCD Soundsystem",
+    "title": "I can change",
+    "album": "This Is Happening",
+    "release_year": 2010,
+    "label": "Parlophone UK",
+    "spotify_popularity": 60,
+    "artist_popularity": 64,
+    "genres": [
+      "Disco",
+      "new rave",
+      "Electro",
+      "alternative dance",
+      "Alternative Rock"
+    ],
+    "contributors": [
+      {
+        "name": "James Murphy",
+        "roles": [
+          "Composer",
+          "Producer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Patrick Mahoney",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Joe Adams",
+        "roles": [
+          "Engineer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Matt Wiggins",
+        "roles": [
+          "Engineer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Gunnar Bjerk",
+        "roles": [
+          "Producer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    ],
+    "publishers": [
+      "Gavin Russom Publishing Designee",
+      "Al Doyle Publishing Designee",
+      "EMI Blackwood Music Inc.",
+      "Les Souvenir",
+      "Tim Goldsworthy",
+      "Universal/MCA Music Ltd.",
+      "Saturn Strip, Ltd.",
+      "Warner/Chappell Music Publishing Ltd.",
+      "Kobalt Songs Music Publishing",
+      "Revega Publishing Company",
+      "Imagen Music",
+      "Songs From My Face, Inc."
+    ],
+    "derivatives": {
+      "secondhandsongs": [
+        {
+          "title": "I Can Change",
+          "artist": "LCD Soundsystem",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/442175"
+        },
+        {
+          "title": "I Can Change",
+          "artist": "Ezra Furman",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/442181"
+        }
+      ],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "James Murphy",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Patrick Mahoney",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Electronic",
+          "Rock",
+          "Pop",
+          "Stage & Screen"
+        ],
+        "album_styles": [
+          "Alternative Rock",
+          "Disco",
+          "Electro"
+        ],
+        "album_formats": [
+          "Vinyl",
+          "Box Set"
+        ],
+        "release_country": null,
+        "release_year": 2014,
+        "labels": [
+          {
+            "name": "Warner Bros. Records",
+            "catno": "541125-1"
+          },
+          {
+            "name": "Warner Bros. Records",
+            "catno": "1-541125 (K1)"
+          },
+          {
+            "name": "DFA",
+            "catno": "DFA 2362LP"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "825646327188"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Songs From My Face, Inc.",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Songs From My Face, Inc.",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Warner Bros. Records Inc.",
+            "role": "Licensed To"
+          },
+          {
+            "name": "Parlophone Records Ltd.",
+            "role": "Licensed To"
+          },
+          {
+            "name": "Warner Music Group",
+            "role": "Record Company"
+          },
+          {
+            "name": "Songs From My Face, Inc.",
+            "role": "Published By"
+          },
+          {
+            "name": "Kobalt Songs Music Publishing",
+            "role": "Published By"
+          },
+          {
+            "name": "Les Souvenir",
+            "role": "Published By"
+          },
+          {
+            "name": "Gavin Russom Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "Warner/Chappell Music Publishing Ltd.",
+            "role": "Published By"
+          },
+          {
+            "name": "Revega Publishing Company",
+            "role": "Published By"
+          },
+          {
+            "name": "Saturn Strip, Ltd.",
+            "role": "Published By"
+          },
+          {
+            "name": "Al Doyle Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "Tim Goldsworthy",
+            "role": "Published By"
+          },
+          {
+            "name": "Imagen Music",
+            "role": "Published By"
+          },
+          {
+            "name": "EMI Blackwood Music Inc.",
+            "role": "Published By"
+          },
+          {
+            "name": "Universal/MCA Music Ltd.",
+            "role": "Published By"
+          },
+          {
+            "name": "DFA",
+            "role": "Produced For"
+          },
+          {
+            "name": "Madison Square Garden",
+            "role": "Recorded At"
+          },
+          {
+            "name": "DFA Studios",
+            "role": "Mixed At"
+          },
+          {
+            "name": "Strongroom",
+            "role": "Mixed At"
+          },
+          {
+            "name": "Chicago Mastering Service",
+            "role": "Mastered At"
+          },
+          {
+            "name": "Chicago Mastering Service",
+            "role": "Lacquer Cut At"
+          },
+          {
+            "name": "Optimal Media GmbH",
+            "role": "Pressed By"
+          },
+          {
+            "name": "Optimal Media GmbH",
+            "role": "Pressed By"
+          },
+          {
+            "name": "Optimal Media GmbH",
+            "role": "Pressed By"
+          },
+          {
+            "name": "Optimal Media GmbH",
+            "role": "Pressed By"
+          },
+          {
+            "name": "Optimal Media GmbH",
+            "role": "Pressed By"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "8 2564632718 8"
+          },
+          {
+            "type": "Barcode",
+            "value": "825646327188"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 1-A [sideways \u24ce]121013 DR. ORANGE BE39269-01 A1 NEW"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 2-B [sideways \u24ce]121013 DR. ORANGE BE43108-01 B1 YORK"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 1-C [sideways \u24ce]121013 DR. ORANGE BE39269-01 C1 I"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 2-D [sideways \u24ce]121013 DR. ORANGE BE39269-02 D1 LOVE"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 3-E [sideways \u24ce]121013 DR. ORANGE BE39269-03 E1 YOU"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 4-F [sideways \u24ce]121013 DR. ORANGE BE43117-03 F1 BUT"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 5-G [sideways \u24ce]121013 DR. ORANGE BE43129-04 G1 YOU\u2019RE"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 3-H [sideways \u24ce]121013 DR. ORANGE BE43116-04 H1 BRINGING"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 4-I [sideways \u24ce]121013 DR. ORANGE BE43117-05 I2 ME"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "[DFA Logo]DFA-2362LP-DISC 5-J [sideways \u24ce]121013 DR. ORANGE BE39269-05 J1 DOWN"
+          },
+          {
+            "type": "Label Code",
+            "value": "LC 30419"
+          },
+          {
+            "type": "Rights Society",
+            "value": "GEMA/MCPS"
+          },
+          {
+            "type": "Rights Society",
+            "value": "ASCAP"
+          },
+          {
+            "type": "Rights Society",
+            "value": "SESAC"
+          },
+          {
+            "type": "Rights Society",
+            "value": "PRS"
+          }
+        ],
+        "publishers": [
+          "Gavin Russom Publishing Designee",
+          "Al Doyle Publishing Designee",
+          "EMI Blackwood Music Inc.",
+          "Les Souvenir",
+          "Kobalt Songs Music Publishing",
+          "Imagen Music",
+          "Universal/MCA Music Ltd.",
+          "Saturn Strip, Ltd.",
+          "Warner/Chappell Music Publishing Ltd.",
+          "Songs From My Face, Inc.",
+          "Revega Publishing Company",
+          "Tim Goldsworthy"
+        ],
+        "copyrights": [
+          "Songs From My Face, Inc.",
+          "Songs From My Face, Inc."
+        ],
+        "phonographic_rights": [
+          "Songs From My Face, Inc."
+        ],
+        "notes": "Record Store Day 2014 First Release. 5xLP Heavyweight vinyl box set limited to 3,000 copies. \n\nFive Disc 180 Gram Vinyl Box Set Complete, Unabridged Farewell Show. 3+ Hours of live performances Mixed by James Murphy at DFA Studios to 1/4\" analog tape specifically for vinyl.\n\nOn Box:\n\u00a9\u2117 2014 Songs From My Face, Inc. under exclusive license to Warner Bros. Records Inc.\nPrinted in U.S.A.\n\nOn Labels:\n\u2117+\u00a9 2014 Songs From My Face, Inc. under exclusive license to Parlophone Records Ltd., a Warner Music Group Company.\nMade in the E.U.\nLC30419 / 825646327188 / GEMA/MCPS\n\nProduced and Mixed For The DFA in 2011-2013. Recorded live at Madison Square Garden. Mixed at DFA Studios. Additional file work at Strongroom Studios. Mastered at Chicago Mastering Service.\n\nPublished by Songs From My Face, Inc. (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP)."
+      }
+    },
+    "flags": []
+  }
+]
