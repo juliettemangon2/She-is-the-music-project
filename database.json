@@ -2486,5 +2486,2029 @@
       }
     },
     "flags": []
+  },
+  {
+    "artist": "Phoebe Bridgers",
+    "title": "Moon Song",
+    "album": "Punisher",
+    "release_year": 2020,
+    "label": "Dead Oceans",
+    "spotify_popularity": 69,
+    "artist_popularity": 79,
+    "genres": [
+      "Indie Rock",
+      "Folk"
+    ],
+    "contributors": [
+      {
+        "name": "Harrison Whitford",
+        "roles": [
+          "Guitar"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Christian Lee Hutson",
+        "roles": [
+          "Celesta",
+          "Guitar",
+          "Lyricist",
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Ethan Gruska",
+        "roles": [
+          "Bass",
+          "Bass [sub bass]",
+          "Bass [tenor bass]",
+          "Guitar",
+          "Instruments [fader performance]",
+          "Keyboards [optigan flutes]",
+          "Mellotron",
+          "Piano",
+          "Piano [pocket]",
+          "Producer",
+          "Programmed by [programming]",
+          "Pump organ",
+          "Sampler [sampling]",
+          "Sound designer",
+          "Synth [synths]",
+          "Vocoder"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Nate Walcott",
+        "roles": [
+          "Arranged by [horns]",
+          "Horns"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Rob Moose",
+        "roles": [
+          "Arranged by [strings]",
+          "Strings"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Tony Berg",
+        "roles": [
+          "Autoharp",
+          "Bandura",
+          "Banjo",
+          "Electronic drums [syndrum]",
+          "Guitar",
+          "Mellotron",
+          "Producer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Blake Mills",
+        "roles": [
+          "Clarinet",
+          "Guitar",
+          "Percussion [slat drum]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Phoebe Bridgers",
+        "roles": [
+          "Composer",
+          "Guitar",
+          "Instruments [fader performance]",
+          "Producer",
+          "Writer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Anna Butterss",
+        "roles": [
+          "Bass"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Emily Retsas",
+        "roles": [
+          "Bass"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Jenny Lee Lindberg",
+        "roles": [
+          "Bass"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Sebastian Steinberg",
+        "roles": [
+          "Bass [bowed]",
+          "Double bass [upright bass]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Jim Keltner",
+        "roles": [
+          "Drums"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Marshall Vore",
+        "roles": [
+          "Drums",
+          "Lyricist",
+          "Percussion",
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Joseph Lorge",
+        "roles": [
+          "Engineer",
+          "Guitar"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Nick Zinner",
+        "roles": [
+          "Guitar"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Will Maclellan",
+        "roles": [
+          "Engineer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Sara Watkins",
+        "roles": [
+          "Fiddle"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Chris Riddell",
+        "roles": [
+          "Illustration [booklet illustrations]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Chris Muth",
+        "roles": [
+          "Lacquer cut by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Open Sea Design Co.",
+        "roles": [
+          "Layout [booklet], design [booklet]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Travis DeMello",
+        "roles": [
+          "Layout [booklet], design [booklet]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Nathaniel David Utesch",
+        "roles": [
+          "Layout, design"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Conor Oberst",
+        "roles": [
+          "Lyricist",
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Morgan Nagler",
+        "roles": [
+          "Lyricist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Nick White",
+        "roles": [
+          "Lyricist",
+          "Mellotron",
+          "Piano"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Darin Harmon",
+        "roles": [
+          "Management"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Bob Ludwig",
+        "roles": [
+          "Mastered by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Mike Mogis",
+        "roles": [
+          "Mixed by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Jeroen Vrijhoef",
+        "roles": [
+          "Performer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Olof Grind",
+        "roles": [
+          "Photography by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Julien Baker",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Kane Ritchotte",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lucy Dacus",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lukas Frank",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Malcolm McRae (2)",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Tomberlin",
+        "roles": [
+          "Vocalist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [
+      "Goldmeyn Music",
+      "Sliondelion",
+      "Corn Fox Publishing",
+      "Whatever Mom Music",
+      "Bedrooms; Bedrooms And Spiders",
+      "Pizza Money Music"
+    ],
+    "derivatives": {
+      "secondhandsongs": [
+        {
+          "title": "Moon Song",
+          "artist": "Phoebe Bridgers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1447218"
+        },
+        {
+          "title": "Moon Song",
+          "artist": "Arlo Parks",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1447219"
+        },
+        {
+          "title": "Moon Song",
+          "artist": "Piano Dreamers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1476642"
+        },
+        {
+          "title": "Moon Song",
+          "artist": "Guitar Dreamers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1482391"
+        },
+        {
+          "title": "Moon Song",
+          "artist": "Midnite String Quartet",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1519314"
+        }
+      ],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Harrison Whitford",
+            "role": "12-String Acoustic Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Acoustic Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Acoustic Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Harrison Whitford",
+            "role": "Acoustic Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Harrison Whitford",
+            "role": "Acoustic Guitar [Hi Strung]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nate Walcott",
+            "role": "Arranged By [Horns]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Rob Moose",
+            "role": "Arranged By [Strings]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Autoharp",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Bandura",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Banjo",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Blake Mills",
+            "role": "Baritone Guitar [Electric]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Baritone Guitar [Electric]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Baritone Guitar [Electric]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Anna Butterss",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Emily Retsas",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Jenny Lee Lindberg",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "role": "Bass [Bowed]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Bass [Sub Bass]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Bass [Tenor Bass]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Celesta",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Blake Mills",
+            "role": "Clarinet",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Classical Guitar [Nylon Guitar]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "role": "Double Bass [Upright Bass]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Jim Keltner",
+            "role": "Drums",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Marshall Vore",
+            "role": "Drums",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Electric Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Harrison Whitford",
+            "role": "Electric Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Joseph Lorge",
+            "role": "Electric Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nick Zinner",
+            "role": "Electric Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Electric Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Electric Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Electronic Drums [Syndrum]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Joseph Lorge",
+            "role": "Engineer [Engineered By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Will Maclellan",
+            "role": "Engineer [Engineered By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Sara Watkins",
+            "role": "Fiddle",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Guitar [Hi Strung]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Guitar [Rubber Bridgers Guitar]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nate Walcott",
+            "role": "Horns",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Chris Riddell",
+            "role": "Illustration [Booklet Illustrations]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Instruments [Fader Performance]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Instruments [Fader Performance]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Keyboards [Optigan Flutes]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Chris Muth",
+            "role": "Lacquer Cut By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Open Sea Design Co.",
+            "role": "Layout [Booklet], Design [Booklet]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Travis DeMello",
+            "role": "Layout [Booklet], Design [Booklet]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nathaniel David Utesch",
+            "role": "Layout, Design",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Lyrics By [Emotional And Lyrical Support]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Conor Oberst",
+            "role": "Lyrics By [Emotional And Lyrical Support]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Marshall Vore",
+            "role": "Lyrics By [Emotional And Lyrical Support]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Morgan Nagler",
+            "role": "Lyrics By [Emotional And Lyrical Support]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nick White",
+            "role": "Lyrics By [Emotional And Lyrical Support]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Darin Harmon",
+            "role": "Management",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Bob Ludwig",
+            "role": "Mastered By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Mellotron",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nick White",
+            "role": "Mellotron",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Mellotron",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Mike Mogis",
+            "role": "Mixed By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Marshall Vore",
+            "role": "Percussion",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Blake Mills",
+            "role": "Percussion [Slat Drum]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Jeroen Vrijhoef",
+            "role": "Performer",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Olof Grind",
+            "role": "Photography By",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Piano",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Nick White",
+            "role": "Piano",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Piano [Pocket]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Producer [Produced By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Producer [Produced By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tony Berg",
+            "role": "Producer [Produced By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Programmed By [Programming]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Pump Organ",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Sampler [Sampling]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Phoebe Bridgers",
+            "role": "Songwriter [All Songs Written By]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Sound Designer",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Rob Moose",
+            "role": "Strings",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Synth [Synths]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Twelve-String Guitar",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Harrison Whitford",
+            "role": "Twelve-String Guitar [Electric]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Christian Lee Hutson",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Conor Oberst",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Julien Baker",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Kane Ritchotte",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Lucy Dacus",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Lukas Frank",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Malcolm McRae (2)",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Marshall Vore",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Tomberlin",
+            "role": "Vocals",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Ethan Gruska",
+            "role": "Vocoder",
+            "source": "discogs",
+            "scope": "album"
+          }
+        ],
+        "album_genres": [
+          "Rock",
+          "Folk, World, & Country"
+        ],
+        "album_styles": [
+          "Indie Rock",
+          "Folk"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "US",
+        "release_year": 2020,
+        "labels": [
+          {
+            "name": "Dead Oceans",
+            "catno": "DOC200"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Dead Oceans, Inc.",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Dead Oceans, Inc.",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Sound City Studios",
+            "role": "Recorded At"
+          },
+          {
+            "name": "ARC Studios, Omaha, NE",
+            "role": "Mixed At"
+          },
+          {
+            "name": "Gateway Mastering",
+            "role": "Mastered At"
+          },
+          {
+            "name": "Whatever Mom Music",
+            "role": "Published By"
+          },
+          {
+            "name": "Corn Fox Publishing",
+            "role": "Published By"
+          },
+          {
+            "name": "Goldmeyn Music",
+            "role": "Published By"
+          },
+          {
+            "name": "Bedrooms; Bedrooms And Spiders",
+            "role": "Published By"
+          },
+          {
+            "name": "Pizza Money Music",
+            "role": "Published By"
+          },
+          {
+            "name": "Sliondelion",
+            "role": "Published By"
+          },
+          {
+            "name": "Independent Record Pressing",
+            "role": "Pressed By"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "656605150017"
+          },
+          {
+            "type": "Barcode",
+            "value": "6 56605 15001 7"
+          },
+          {
+            "type": "Barcode",
+            "value": "656605150048"
+          },
+          {
+            "type": "Label Code",
+            "value": "LC 29265"
+          },
+          {
+            "type": "Rights Society",
+            "value": "ASCAP"
+          },
+          {
+            "type": "Rights Society",
+            "value": "BMI"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "DOC200LP-A cut 3-11-20 \u2661 cm \u2661"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "DOC200LP-B cm"
+          }
+        ],
+        "publishers": [
+          "Goldmeyn Music",
+          "Sliondelion",
+          "Corn Fox Publishing",
+          "Whatever Mom Music",
+          "Bedrooms; Bedrooms And Spiders",
+          "Pizza Money Music"
+        ],
+        "copyrights": [
+          "Dead Oceans, Inc.",
+          "Dead Oceans, Inc."
+        ],
+        "phonographic_rights": [
+          "Dead Oceans, Inc."
+        ],
+        "notes": "Recorded at Sound City Studios, Van Nuys, CA\nMixed at ARC Studios, Omaha, NE\nMastered at Gateway Mastering Studios, Portland, ME\n\nAll songs written by Phoebe Bridgers, Whatever Mom Music / ASCAP\nWith emotional and lyrical support by\nChristian Lee Hutson, Corn Fox Publishing / ASCAP [A2, A5, B2, B4, B5]\nMorgan Nagler, Goldmeyn Music / BMI [A3]\nConor Oberst, Bedrooms; Bedrooms and Spiders / BMI [A4, A5, A6, B2, B5]\nMarshall Vore, Pizza Money Music / ASCAP [A2, A3, A4, A6, B3, B5]\nNicholas White, Sliondelion / BMI [B3]\n\nJulien Baker and Lucy Dacus appear coutesy of Matador Records\nEthan Gruska appears courtesy of Warner Bros. Records\nBlake Mills appears courtesy of New Deal/Verve Records\n\n\u00a9 & \u2117 2020 Dead Oceans, Inc.\n\n \nBlack vinyl variant includes a 24-page illustrated lyric booklet and a digital download card."
+      }
+    },
+    "flags": [
+      {
+        "type": "conflicting_info",
+        "message": "Contributor information differs between Discogs and MusicBrainz",
+        "details": {
+          "discogs": [
+            "Nick White",
+            "Christian Lee Hutson",
+            "Phoebe Bridgers",
+            "Marshall Vore",
+            "Conor Oberst",
+            "Morgan Nagler"
+          ],
+          "musicbrainz": [
+            "Phoebe Bridgers"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "artist": "Cash Cobain",
+    "title": "Some Shit",
+    "album": "PLAY CASH COBAIN",
+    "release_year": 2024,
+    "label": "Giant Music",
+    "spotify_popularity": 35,
+    "artist_popularity": 70,
+    "genres": [
+      "jersey club",
+      "Pop Rap",
+      "Drill",
+      "sexy drill",
+      "Trap",
+      "Jersey Club"
+    ],
+    "contributors": [],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [],
+        "album_genres": [
+          "Electronic",
+          "Hip Hop"
+        ],
+        "album_styles": [
+          "Drill",
+          "Pop Rap",
+          "Trap",
+          "Jersey Club"
+        ],
+        "album_formats": [
+          "File"
+        ],
+        "release_country": "Worldwide",
+        "release_year": 2024,
+        "labels": [
+          {
+            "name": "Not On Label (Cash Cobain Self-released)",
+            "catno": "none"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Giant Music (10)",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Giant Music (10)",
+            "role": "Copyright (c)"
+          }
+        ],
+        "identifiers": [],
+        "publishers": [],
+        "copyrights": [
+          "Giant Music (10)",
+          "Giant Music (10)"
+        ],
+        "phonographic_rights": [
+          "Giant Music (10)"
+        ],
+        "notes": "\u00a9 2024 Giant Music\n\u2117 2024 Giant Music"
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "wolfacejoeyy",
+    "title": "cake",
+    "album": "cake / don't be dishonest",
+    "release_year": 2024,
+    "label": "Alamo",
+    "spotify_popularity": 43,
+    "artist_popularity": 48,
+    "genres": [
+      "sexy drill",
+      "jersey club",
+      "dark r&b"
+    ],
+    "contributors": [],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [],
+        "album_genres": [
+          "Hip Hop"
+        ],
+        "album_styles": [],
+        "album_formats": [
+          "File"
+        ],
+        "release_country": "UK",
+        "release_year": 2024,
+        "labels": [
+          {
+            "name": "Not On Label (Wolfacejoeyy Self-released)",
+            "catno": "none"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Alamo Records (5)",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Wolfacejoeyy",
+            "role": "Phonographic Copyright (p)"
+          }
+        ],
+        "identifiers": [],
+        "publishers": [],
+        "copyrights": [
+          "Alamo Records (5)",
+          "Wolfacejoeyy"
+        ],
+        "phonographic_rights": [
+          "Alamo Records (5)",
+          "Wolfacejoeyy"
+        ],
+        "notes": "(P) 2024 Alamo Records/Wolfacejoeyy"
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Lelo",
+    "title": "New Detroit",
+    "album": "Nightingale",
+    "release_year": 2024,
+    "label": "10K Projects",
+    "spotify_popularity": 56,
+    "artist_popularity": 63,
+    "genres": [],
+    "contributors": [],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [],
+        "album_genres": [
+          "Hip Hop"
+        ],
+        "album_styles": [],
+        "album_formats": [
+          "File"
+        ],
+        "release_country": "UK",
+        "release_year": 2025,
+        "labels": [
+          {
+            "name": "Not On Label (Lelo (7) Self-released)",
+            "catno": "none"
+          }
+        ],
+        "companies": [
+          {
+            "name": "10K Projects",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "10K Projects",
+            "role": "Copyright (c)"
+          }
+        ],
+        "identifiers": [],
+        "publishers": [],
+        "copyrights": [
+          "10K Projects",
+          "10K Projects"
+        ],
+        "phonographic_rights": [
+          "10K Projects"
+        ],
+        "notes": "\u2117\u00a9 2025 10K Projects"
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Elias",
+    "title": "sweet escape",
+    "album": "sweet escape",
+    "release_year": 2025,
+    "label": "&friends.",
+    "spotify_popularity": 48,
+    "artist_popularity": 52,
+    "genres": [
+      "Dance-pop",
+      "Future House",
+      "House",
+      "Trance"
+    ],
+    "contributors": [
+      {
+        "name": "Anders Grahn",
+        "roles": [
+          "Composed by"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Andrew Bayer",
+        "roles": [
+          "Composed by",
+          "Producer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Armin van Buuren",
+        "roles": [
+          "Composed by",
+          "Lyricist",
+          "Producer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Louise Lindberg",
+        "roles": [
+          "Composed by",
+          "Lyricist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Samantha Harper",
+        "roles": [
+          "Composed by",
+          "Lyricist"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Lucky Lou (5)",
+        "roles": [
+          "Featuring"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Anders Grahn",
+            "role": "Composed By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Andrew Bayer",
+            "role": "Composed By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Armin van Buuren",
+            "role": "Composed By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Louise Lindberg",
+            "role": "Composed By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Samantha Harper",
+            "role": "Composed By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Lucky Lou (5)",
+            "role": "Featuring",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Armin van Buuren",
+            "role": "Lyrics By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Louise Lindberg",
+            "role": "Lyrics By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Samantha Harper",
+            "role": "Lyrics By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Andrew Bayer",
+            "role": "Producer",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Armin van Buuren",
+            "role": "Producer",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Electronic",
+          "Pop"
+        ],
+        "album_styles": [
+          "Trance",
+          "House",
+          "Dance-pop",
+          "Future House"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "Netherlands",
+        "release_year": 2025,
+        "labels": [
+          {
+            "name": "Armada Music B.V.",
+            "catno": "ARMA498V"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Armada Music B.V.",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Armada Music B.V.",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Armin Audio B.V.",
+            "role": "Licensed From"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "8718522538650"
+          },
+          {
+            "type": "Rights Society",
+            "value": "BIEM / STEMRA"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [
+          "Armada Music B.V.",
+          "Armada Music B.V."
+        ],
+        "phonographic_rights": [
+          "Armada Music B.V."
+        ],
+        "notes": "Released in a slipcase and an plastic slipcase."
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "praise.",
+    "title": "hills.",
+    "album": "poppa.",
+    "release_year": 2024,
+    "label": "&friends.",
+    "spotify_popularity": 47,
+    "artist_popularity": 49,
+    "genres": [
+      "Ska"
+    ],
+    "contributors": [
+      {
+        "name": "Linton",
+        "roles": [
+          "Mastered by [vinyl cut]"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Teka (2)",
+        "roles": [
+          "Producer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Thilo Jacks",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      }
+    ],
+    "publishers": [],
+    "derivatives": {
+      "secondhandsongs": [],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Linton",
+            "role": "Mastered By [Vinyl Cut]",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Teka (2)",
+            "role": "Producer",
+            "source": "discogs",
+            "scope": "album"
+          },
+          {
+            "name": "Thilo Jacks",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "album"
+          }
+        ],
+        "album_genres": [
+          "Reggae"
+        ],
+        "album_styles": [
+          "Ska"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "Germany",
+        "release_year": 2010,
+        "labels": [
+          {
+            "name": "Rootdown Records",
+            "catno": "RDM13075-7"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Buyreggae.com",
+            "role": "Distributed By"
+          },
+          {
+            "name": "Rootdown Records",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "Rootdown Records",
+            "role": "Copyright (c)"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Matrix / Runout",
+            "value": "PRAISE THE KING RK 71026 BUY REGGAE LINTON"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "MEMORY HILLS RK 71027 BUY REGGAE LINTON"
+          }
+        ],
+        "publishers": [],
+        "copyrights": [
+          "Rootdown Records",
+          "Rootdown Records"
+        ],
+        "phonographic_rights": [
+          "Rootdown Records"
+        ],
+        "notes": "Kokoo riddim\n"
+      }
+    },
+    "flags": [
+      {
+        "type": "missing_publisher",
+        "message": "Publisher information missing"
+      }
+    ]
+  },
+  {
+    "artist": "Steve Lacy",
+    "title": "Bad Habit",
+    "album": "Gemini Rights",
+    "release_year": 2022,
+    "label": "L-M Records/RCA Records",
+    "spotify_popularity": 82,
+    "artist_popularity": 81,
+    "genres": [
+      "Indie Pop",
+      "Psychedelic",
+      "Neo Soul"
+    ],
+    "contributors": [
+      {
+        "name": "Steve Lacy (4)",
+        "roles": [
+          "Bass",
+          "Composer",
+          "Producer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "John Carroll Kirby",
+        "roles": [
+          "Composer",
+          "Synth [additional]",
+          "Writer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Britanny Foushee",
+        "roles": [
+          "Composer"
+        ],
+        "sources": [
+          "discogs"
+        ]
+      },
+      {
+        "name": "Diana Gordon",
+        "roles": [
+          "Composer",
+          "Writer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Matthew Castellanos",
+        "roles": [
+          "Composer",
+          "Writer"
+        ],
+        "sources": [
+          "discogs",
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Foushe\u00e9",
+        "roles": [
+          "Writer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      {
+        "name": "Steve Lacy",
+        "roles": [
+          "Writer"
+        ],
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    ],
+    "publishers": [
+      "Sony/ATV Sonata",
+      "Songs of Universal, Inc.",
+      "Matthew Martin Publishing Designee",
+      "Kobalt Songs Music Publishing",
+      "Steve Lacy Publishing Designee",
+      "Love Tunnel Publishing",
+      "Kirby Kirbstein Publishing",
+      "WC Music Corp",
+      "Diana Gordon Publishing Designee",
+      "Karriem Riggins Music",
+      "Sony/ATV Songs LLC",
+      "Warner-Tamerlane Publishing Corp.",
+      "Matthew Castellanos Publishing Designee",
+      "Britanny Foushe\u00e9 Publishing Designee",
+      "These Are Songs Of Pulse",
+      "Dahi Productions"
+    ],
+    "derivatives": {
+      "secondhandsongs": [
+        {
+          "title": "Bad Habit",
+          "artist": "Scary Pockets feat. Kimbra",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1468020"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Steve Lacy [US2]",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1383624"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Piano Dreamers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1383625"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Adam Christopher",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1409984"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Frank Rivers",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1415303"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Javi",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1417077"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Guitar Tribute Players",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1440905"
+        },
+        {
+          "title": "Bad Habit",
+          "artist": "Kidz Bop Kids",
+          "relation_type": "versions",
+          "uri": "https://api.secondhandsongs.com/performance/1778370"
+        }
+      ],
+      "discogs_master": {
+        "contributors": [
+          {
+            "name": "Steve Lacy (4)",
+            "role": "Bass",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Steve Lacy (4)",
+            "role": "Producer",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "John Carroll Kirby",
+            "role": "Synth [Additional]",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Britanny Foushee",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Diana Gordon",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "John Carroll Kirby",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Matthew Castellanos",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          },
+          {
+            "name": "Steve Lacy (4)",
+            "role": "Written-By",
+            "source": "discogs",
+            "scope": "track"
+          }
+        ],
+        "album_genres": [
+          "Funk / Soul",
+          "Pop"
+        ],
+        "album_styles": [
+          "Neo Soul",
+          "Indie Pop",
+          "Psychedelic"
+        ],
+        "album_formats": [
+          "Vinyl"
+        ],
+        "release_country": "US",
+        "release_year": 2022,
+        "labels": [
+          {
+            "name": "RCA",
+            "catno": "19658-73971-1"
+          }
+        ],
+        "companies": [
+          {
+            "name": "Sony Music Entertainment",
+            "role": "Record Company"
+          },
+          {
+            "name": "RCA Records",
+            "role": "Licensed To"
+          },
+          {
+            "name": "Sony Music Entertainment",
+            "role": "Marketed By"
+          },
+          {
+            "name": "Sony Music Entertainment",
+            "role": "Distributed By"
+          },
+          {
+            "name": "L-M Records (2)",
+            "role": "Phonographic Copyright (p)"
+          },
+          {
+            "name": "L-M Records (2)",
+            "role": "Copyright (c)"
+          },
+          {
+            "name": "Steve Lacy Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "Songs of Universal, Inc.",
+            "role": "Published By"
+          },
+          {
+            "name": "Kirby Kirbstein Publishing",
+            "role": "Published By"
+          },
+          {
+            "name": "Kobalt Songs Music Publishing",
+            "role": "Published By"
+          },
+          {
+            "name": "Diana Gordon Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "Warner-Tamerlane Publishing Corp.",
+            "role": "Published By"
+          },
+          {
+            "name": "Dahi Productions",
+            "role": "Published By"
+          },
+          {
+            "name": "Sony/ATV Sonata",
+            "role": "Published By"
+          },
+          {
+            "name": "Britanny Foushe\u00e9 Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "WC Music Corp",
+            "role": "Published By"
+          },
+          {
+            "name": "Love Tunnel Publishing",
+            "role": "Published By"
+          },
+          {
+            "name": "These Are Songs Of Pulse",
+            "role": "Published By"
+          },
+          {
+            "name": "Matthew Castellanos Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "Matthew Martin Publishing Designee",
+            "role": "Published By"
+          },
+          {
+            "name": "Sony/ATV Songs LLC",
+            "role": "Published By"
+          },
+          {
+            "name": "Karriem Riggins Music",
+            "role": "Published By"
+          },
+          {
+            "name": "The Village Studios",
+            "role": "Engineered At"
+          },
+          {
+            "name": "Bernie Grundman Mastering",
+            "role": "Mastered At"
+          },
+          {
+            "name": "GZ Media",
+            "role": "Plated At"
+          },
+          {
+            "name": "Memphis Record Pressing",
+            "role": "Pressed By"
+          }
+        ],
+        "identifiers": [
+          {
+            "type": "Barcode",
+            "value": "1-9658-73971-1 1"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "MRP4119 / 19658739711 - A #12 249755E1/A"
+          },
+          {
+            "type": "Matrix / Runout",
+            "value": "MRP4119 / 19658739711 - B #10 249755E2/A"
+          },
+          {
+            "type": "Rights Society",
+            "value": "BMI"
+          },
+          {
+            "type": "Rights Society",
+            "value": "SESAC"
+          },
+          {
+            "type": "Rights Society",
+            "value": "ASCAP"
+          },
+          {
+            "type": "Other",
+            "value": "19658-73971-1S1"
+          },
+          {
+            "type": "Other",
+            "value": "19658-73971-1I1"
+          }
+        ],
+        "publishers": [
+          "Sony/ATV Sonata",
+          "Songs of Universal, Inc.",
+          "Matthew Martin Publishing Designee",
+          "These Are Songs Of Pulse",
+          "Steve Lacy Publishing Designee",
+          "Love Tunnel Publishing",
+          "Kirby Kirbstein Publishing",
+          "WC Music Corp",
+          "Diana Gordon Publishing Designee",
+          "Karriem Riggins Music",
+          "Sony/ATV Songs LLC",
+          "Warner-Tamerlane Publishing Corp.",
+          "Matthew Castellanos Publishing Designee",
+          "Britanny Foushe\u00e9 Publishing Designee",
+          "Kobalt Songs Music Publishing",
+          "Dahi Productions"
+        ],
+        "copyrights": [
+          "L-M Records (2)",
+          "L-M Records (2)"
+        ],
+        "phonographic_rights": [
+          "L-M Records (2)"
+        ],
+        "notes": "Housed in a full-color single sleeve jacket.\nIncludes custom inner sleeve and double-sided print with credits.\n\nOriginally sold during stops of his \"Give You The World\" Tour, before being given a wide release on November 4th 2022.\n\nFBI anti-piracy warning on the back cover.\n\u2117&\u00a9 L-M Records, under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nMade in Czech Republic\n\nA1 \"Static\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Kirby Kirbstein Publishing (ASCAP) (adm. by Kobalt Songs Music Publishing)\n\nA2 \"Helmet\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Diana Gordon Publishing Designee / Warner-Tamerlane Publishing Corp. (BMI)\n\nA3 \"Mercury\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Dahi Productions / Sony/ATV Sonata (SESAC), Britanny Foushe\u00e9 Publishing Designee / WC Music Corp. (ASCAP), Love Tunnel Publishing / These Are Songs Of Pulse (ASCAP)\n\nA4 \"Buttons\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Dahi Productions / Sony/ATV Sonata (SESAC), Love Tunnel Publishing / These Are Songs Of Pulse (ASCAP)\n\nA5 \"Bad Habit\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Britanny Foushe\u00e9 Publishing Designee / WC Music Corp. (ASCAP), Diana Gordon Publishing Designee / Warner-Tamerlane Publishing Corp. (BMI), Matthew Castellanos Publishing Designee (BMI), Kirby Kirbstein Publishing (ASCAP) (adm. by Kobalt Songs Music Publishing)\n\nB1 \"2Gether (Enterlude)\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Matthew Martin Publishing Designee / Sony/ATV Songs LLC (BMI), Kirby Kirbstein Publishing (ASCAP) (adm. by Kobalt Songs Music Publishing)\n\nB2 \"Cody Freestyle\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Britanny Foushe\u00e9 Publishing Designee / WC Music Corp. (ASCAP)\n\nB3 \"Amber\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Britanny Foushe\u00e9 Publishing Designee / WC Music Corp. (ASCAP)\n\nB4 \"Sunshine\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Britanny Foushe\u00e9 Publishing Designee / WC Music Corp. (ASCAP), Karriem Riggins Music (ASCAP)\nFoushe\u00e9 appears courtesy of Trackmasters Entertainment / RCA Records\n\nB5 \"Give You The World\"\nPublished by Steve Lacy Publishing Designee / Songs Of Universal, Inc. (BMI), Dahi Productions / Sony/ATV Sonata (SESAC), Love Tunnel Publishing / These Are Songs Of Pulse (ASCAP)"
+      }
+    },
+    "flags": []
   }
 ]
