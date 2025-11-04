@@ -10,7 +10,7 @@ DATABASE_FILE = os.path.join(os.path.dirname(__file__), "database.json")
 @app.route('/')
 def index():
     try:
-        with open(os.path.join('templates', 'index.html'), 'r') as f:
+        with open(os.path.join('templates', 'index2.html'), 'r') as f:
             return f.read()
     except FileNotFoundError:
         return "<h1>index.html not found</h1>", 404
