@@ -1,0 +1,46 @@
+{
+  "name": "final-project-juliettemangon2",
+  "version": "1.0.0",
+  "description": "Deriving patterns from unorganized music industry metadata is difficult. This project is a web app that allows users to input songs and view aggregated song metadata from multiple sources. When a user inputs several songs, the app computes derived insights such as shared collaborators, labels, or genres.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-fall-2025/final-project-juliettemangon2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-fall-2025/final-project-juliettemangon2/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-fall-2025/final-project-juliettemangon2#readme",
+  "dependencies": {
+    "connect-mongo": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "mongoose": "^8.19.3",
+    "morgan": "^1.10.1",
+    "visjs-network": "^4.24.11",
+    "vis-data": "^8.0.3",
+    "vis-network": "^10.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

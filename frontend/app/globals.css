@@ -1,0 +1,254 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* App layout */
+.app-body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  background: #fafafa;
+  color: #111827;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 220px;
+  background: #ffffff;
+  border-right: 1px solid #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 0;
+}
+
+.sidebar h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #111827;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #374151;
+  margin: 0.25rem 0.75rem;
+  border-radius: 0.5rem;
+  transition: background 0.2s ease, color 0.2s ease;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  background: #f3f4f6;
+  color: #2563eb;
+}
+
+.nav-link.active {
+  background: #e0f2fe;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
+/* Main area */
+.main {
+  flex: 1;
+  background: #ffffff;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.section h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+/* Song cards */
+.song-card {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 1.25rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  border: 1px solid #f3f4f6;
+  transition: transform 0.2s ease;
+  position: relative;
+}
+
+.song-card:hover {
+  transform: translateY(-3px);
+}
+
+.toggle-card {
+  background: #f3f4f6;
+  font-size: 0.75rem;
+  border-radius: 0.5rem;
+  padding: 4px 8px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.toggle-card:hover {
+  background: #e5e7eb;
+}
+
+.card-content {
+  transition: max-height 0.4s ease, opacity 0.4s ease;
+  overflow: hidden;
+  max-height: 1000px;
+}
+
+.card-content.collapsed {
+  max-height: 0 !important;
+  opacity: 0;
+  padding-top: 0 !important;
+}
+
+/* Chips */
+.chip {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  margin: 3px 4px 0 0;
+}
+
+.chip-label {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.chip-publisher {
+  background: #fce7f3;
+  color: #9d174d;
+}
+
+.chip-genre {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.chip-role {
+  background: #fef9c3;
+  color: #92400e;
+}
+
+/* Insights panel */
+.insights-panel {
+  background: #f9fafb;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  border: 1px solid #e5e7eb;
+}
+
+.insights-panel h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.insights-panel h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.insight-item {
+  display: inline-block;
+  margin: 4px;
+  padding: 6px 10px;
+  background: #f1f5f9;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+.insight-item:hover {
+  background: #e2e8f0;
+}
+
+/* Highlight */
+.highlight {
+  border: 3px solid #f59e0b;
+  box-shadow: 0 0 8px #fbbf24;
+}
+
+/* Simple button helpers */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1.2rem;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background: #1d4ed8;
+}
+
+.btn-secondary {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+.btn-secondary:hover {
+  background: #d1d5db;
+}
+.active-btn {
+  background: #2563eb;
+  color: white;
+  padding: 0.6rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+
+.inactive-btn {
+  background: #f3f4f6;
+  color: #374151;
+  padding: 0.6rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.inactive-btn:hover {
+  background: #e5e7eb;
+}
