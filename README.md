@@ -1,2 +1,3 @@
 # She is the Music project
+
 Selected as 1 of 40 mentees for the She Is The Music 's Connect TogetHER mentorship program as a music tech mentee under Anna Skelsey. Designed and built a metadata network integrating API endpoints from Spotify, MusicBrainz, Discogs, and SecondHandSongs to map collaboration patterns across the music industry. Developed an analytics and insights dashboard with an interactive visual network to explore artist, genre, and label relationships, supporting A&R discovery and data-driven decision-making.
